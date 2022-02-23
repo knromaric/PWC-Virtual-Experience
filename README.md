@@ -27,7 +27,9 @@ Agent’s performance quadrant -> average handle time (talk duration) vs calls a
 
 **RESULT**:  
 
-Here is the picture of the final dashboard  
+Here is the picture of the final dashboard :   
+
+![alt text](https://github.com/knromaric/PWC-Virtual-Experience/blob/main/img/final_dashboard.PNG "Call Center Dashboard")  
 
 
 ## Customer Retention   
